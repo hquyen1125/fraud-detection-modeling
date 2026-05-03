@@ -1,4 +1,3 @@
-dataset/data.csvdataset/*.txt
+dataset/*.txt
 dataset/*.csv
 .DS_Store
-dataset/*.txt

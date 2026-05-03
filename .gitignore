@@ -1,3 +1,4 @@
 dataset/data.csvdataset/*.txt
 dataset/*.csv
 .DS_Store
+dataset/*.txt

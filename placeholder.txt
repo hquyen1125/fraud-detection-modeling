@@ -1,3 +1,0 @@
-quyen-modeling done
-data-testing
-testing-again
